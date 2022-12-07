@@ -1,0 +1,1 @@
+# KitchenApp_NextJS_SP
